@@ -23,11 +23,14 @@ It supports multiple languages and post lengths, making it perfect for professio
 4. **Generate Post:** Click the button to generate a LinkedIn post.  
 5. **View Output:** Your AI-generated post appears below.  
 
-### **Interface Screenshot**
+### Interface Screenshot
 
 ![Liora LinkedIn Post Generator](Liora.png)
 
----
+- **Title & tagline** show Liora branding.  
+- **Dropdowns** let you pick topic, post length, and language.  
+- **Generated post area** displays the AI output.
+
 
 ## **Set-up**
 
