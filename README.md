@@ -25,7 +25,7 @@ It supports multiple languages and post lengths, making it perfect for professio
 
 ### Interface Screenshot
 
-![Liora LinkedIn Post Generator](https://github.com/<Varsha-AI>/liora-linkedin-buddy/raw/main/Liora.png)
+![Liora LinkedIn Post Generator](https://github.com/<Varsha-AI>/liora-linkedin-buddy/Liora.png)
 
 
 ## **Set-up**
