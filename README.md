@@ -38,11 +38,15 @@ It supports multiple languages and post lengths, making it perfect for professio
 1. **Get API Key**  
    - Go to: [https://console.groq.com/keys](https://console.groq.com/keys)  
    - Create an API key and update `.env` with your key:
+
 2. **Install Dependencies**  
+
 ```bash
 pip install -r requirements.txt
+```  
 
-3. **Run the Streamlit App**
+3. **Run the Streamlit App**  
 
 ```bash
 streamlit run main.py
+```  
