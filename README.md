@@ -27,10 +27,6 @@ It supports multiple languages and post lengths, making it perfect for professio
 
 ![Liora LinkedIn Post Generator](Liora.png)
 
-- **Title & tagline** show Liora branding.  
-- **Dropdowns** let you pick topic, post length, and language.  
-- **Generated post area** displays the AI output.  
-
 ---
 
 ## **Set-up**
