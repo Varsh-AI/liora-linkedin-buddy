@@ -33,11 +33,15 @@ It supports multiple languages and post lengths, making it perfect for professio
 
 ---
 
-## **Setup Instructions**
+## **Set-up**
 
-1. Clone the repository:
+1. **Get API Key**  
+   - Go to: [https://console.groq.com/keys](https://console.groq.com/keys)  
+   - Create an API key and update `.env` with your key:
 
+2. **Install Dependencies**  
 ```bash
-git clone https://github.com/<your-username>/liora-linkedin-buddy.git
-cd liora-linkedin-buddy
+pip install -r requirements.txt
+2. **Run streamlit app**  
+streamlit run main.py
 
