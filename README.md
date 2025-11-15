@@ -25,11 +25,7 @@ It supports multiple languages and post lengths, making it perfect for professio
 
 ### Interface Screenshot
 
-![liora-linkedin-buddy](Liora.png)
-
-- **Title & tagline** show Liora branding.  
-- **Dropdowns** let you pick topic, post length, and language.  
-- **Generated post area** displays the AI output.
+![Liora LinkedIn Post Generator](https://github.com/<Varsha-AI>/liora-linkedin-buddy/raw/main/Liora.png)
 
 
 ## **Set-up**
