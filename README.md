@@ -3,6 +3,8 @@
 Liora is an AI-powered **LinkedIn Post Generator** that helps you create engaging posts in seconds!  
 It supports multiple languages and post lengths, making it perfect for professionals who want to stay active on LinkedIn without spending hours writing content.
 
+![Liora LinkedIn Post Generator](https://github.com/Varsh-AI/liora-linkedin-buddy/blob/main/Liora%20.png)
+
 ---
 
 ## **Features**
@@ -22,11 +24,6 @@ It supports multiple languages and post lengths, making it perfect for professio
 3. **Select Language:** English or Hinglish.  
 4. **Generate Post:** Click the button to generate a LinkedIn post.  
 5. **View Output:** Your AI-generated post appears below.  
-
-### Interface Screenshot
-
-![Liora LinkedIn Post Generator](https://github.com/Varsh-AI/liora-linkedin-buddy/blob/main/Liora%20.png)
-
 
 ## **Set-up**
 
